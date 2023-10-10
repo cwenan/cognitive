@@ -6,8 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "白",
-    url: "https://mister-hope.com",
+    name: "见信",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -33,9 +32,9 @@ export default hopeTheme({
     },
   },
 
-  metaLocales: {
-    editLink: "Edit this page on GitHub",
-  },
+  // metaLocales: {
+  //   editLink: "Edit this page on GitHub",
+  // },
 
 
 

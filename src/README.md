@@ -9,12 +9,13 @@ bgImageStyle:
 heroText: 认知导览
 tagline: 你的互联网资源库
 actions:
-  - text: 快速浏览 💡
-    link: ./article/
-    type: primary
+  # - text: 快速浏览 💡
+  #   link: ./article/
+  #   type: primary
 
   - text: 更新记录
     link: ./history
+    type: primary
 
 
 highlights:
@@ -30,12 +31,12 @@ highlights:
       - title: 工具箱
         icon: tools
         details: 实用软件网站
-        link: ./guide/feature/encrypt.html
+        link: ./tools/
 
       - title: 付费信息群
         icon: comment
         details: 支持 docsearch 和基于客户端的搜索
-        link: ./guide/feature/search.html
+        link: ./other/交流群.html
 
 
 copyright: false
