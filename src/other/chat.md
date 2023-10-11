@@ -1,5 +1,5 @@
 ---
-title: 付费交流群
+title: 交流群
 ---
 
 交流群每天分享各种干货文章，包括但不限于：**caoz、卢克文、混沌天涯客、记忆承载、守夜人总司令、政堂事、园方你怎么看、屠龙手段、第三只眼观、赢在8小时之外**等等博主的文章。
@@ -12,4 +12,4 @@ title: 付费交流群
 
 微信号：**yhalway**，欢迎交流
 
-![wechat](../.vuepress/public/wechat.jpg)
+<img src="../.vuepress/public/wechat.jpg" width = "300" height = "300" alt="图片名称" align=center />

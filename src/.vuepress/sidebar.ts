@@ -6,15 +6,8 @@ export default sidebar({
     {
       text: "文章",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
-
-    {
-      text: "电子书",
-      icon: "book",
-      prefix: "books/",
+      prefix: "article/",
+      link: "article/",
       children: "structure",
     },
 
@@ -24,5 +17,17 @@ export default sidebar({
       prefix: "tools/",
       children: "structure",
     },
+
+    {
+      text: "相关",
+      icon: "info",
+      prefix: "other/",
+      children: "structure",
+    },
+
+  
+
+    
+
   ],
 });

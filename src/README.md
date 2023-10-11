@@ -14,7 +14,7 @@ actions:
   #   type: primary
 
   - text: 更新记录
-    link: ./history
+    link: ./other/history.html
     type: primary
 
 
@@ -22,11 +22,10 @@ highlights:
   - header: 
     features: 
 
-
-      - title: 电子书
+      - title: 文章
         icon: book
-        details: 精品书籍
-        link: ./books/财经.html
+        details: 深度内容
+        link: ./article/
 
       - title: 工具箱
         icon: tools
@@ -35,8 +34,8 @@ highlights:
 
       - title: 付费信息群
         icon: comment
-        details: 支持 docsearch 和基于客户端的搜索
-        link: ./other/交流群.html
+        details: 每天分享付费文章
+        link: ./other/chat.html
 
 
 copyright: false
