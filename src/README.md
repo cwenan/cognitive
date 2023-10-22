@@ -22,14 +22,14 @@ highlights:
   - header: 
     features: 
 
-      - title: 文章
+      - title: 文章合集
         icon: book
         details: 深度内容
         link: ./article/
 
-      - title: 工具箱
+      - title: 资源箱
         icon: tools
-        details: 实用软件网站
+        details: 实用资源、软件、网站
         link: ./tools/
 
       - title: 付费信息群
