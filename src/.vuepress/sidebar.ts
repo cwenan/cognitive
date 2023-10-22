@@ -12,9 +12,9 @@ export default sidebar({
     },
 
     {
-      text: "工具",
+      text: "资源库",
       icon: "tools",
-      prefix: "tools/",
+      prefix: "resource/",
       children: "structure",
     },
 

@@ -27,10 +27,10 @@ highlights:
         details: 深度内容
         link: ./article/
 
-      - title: 资源箱
+      - title: 资源库
         icon: tools
         details: 实用资源、软件、网站
-        link: ./tools/
+        link: ./resource/
 
       - title: 付费信息群
         icon: comment
