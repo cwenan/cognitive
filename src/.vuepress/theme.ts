@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+
 export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
@@ -84,10 +85,15 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
+      card: true,
       tabs: true,
       vPre: true,
       vuePlayground: true,
     },
+
+    
+
+    
 
     // uncomment these if you want a pwa
     // pwa: {

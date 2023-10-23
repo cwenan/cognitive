@@ -8,4 +8,18 @@ export default navbar([
   //   icon: "book",
   //   link: "https://theme-hope.vuejs.press/",
   // },
+
+  {
+    text: "文章合集",
+    link: "/article/"
+  },
+
+  {
+    text: "资源库",
+    icon: "signs-post",
+    prefix: "/resource/",
+    children: ["software/", "websites/", "云盘/"],
+  },
+
+
 ]);
