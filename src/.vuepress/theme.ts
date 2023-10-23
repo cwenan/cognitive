@@ -14,6 +14,8 @@ export default hopeTheme({
 
   logo: "/logo.jpg",
 
+  // 不显示贡献者
+  contributors: false,
 
   docsDir: "src",
 

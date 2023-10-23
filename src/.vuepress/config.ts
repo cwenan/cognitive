@@ -11,6 +11,7 @@ export default defineUserConfig({
 
   theme,
 
+
   //搜索插件，主题里面只能放特点的插件，不能放其他
   plugins: [
     searchProPlugin({
