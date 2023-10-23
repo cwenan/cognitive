@@ -2,6 +2,7 @@
 title: 软件资源站
 ---
 
+## 站点类
 1. 我天哪鸡哥：https://www.wotianna.com/
 2. 蓝点网：https://www.landiannews.com/download-category/down
 3. 异星：https://www.yxssp.com/
@@ -16,3 +17,10 @@ title: 软件资源站
 12. 果核剥壳：https://www.ghxi.com/
 13. 423down：https://www.423down.com/
 14. 小兵下载站：https://7xiazai.com/
+
+
+## 网盘类
+1. https://www.wenshushu.cn/box/2y9xxjki7c8
+2. yoyodadada：https://www.lanzoux.com/u/yoyodadada
+3. 小说app：https://wwa.lanzoui.com/b04bryj3e 提取码：i02r
+4. 太多太多了，不写了，需要什么直接找就好，这些渠道页够了
