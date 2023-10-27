@@ -18,7 +18,7 @@ export default navbar([
     text: "资源库",
     icon: "signs-post",
     prefix: "/resource/",
-    children: ["software/", "websites/", "云盘/"],
+    children: ["software/", "websites/", "pan/"],
   },
 
 

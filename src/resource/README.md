@@ -14,3 +14,4 @@ title: 资源库
 [软件资源站](./software/site.md)
 
 ## 3. 云盘
+[网盘资料](./pan/README.md)
