@@ -19,20 +19,49 @@ title: 电子书（出版、小说）
 12. 掌阅：https://www.ireader.com.cn/
 
 ### 1.2 小说下载
-1. 知轩藏书：https://zxcstxt.com/； 提供热门小说校对版，每天有免费下载次数。推荐
+1. 知轩藏书（都试一试嘛）：
+   1. 资讯：https://zxcs.wiki/
+   2. https://www.zxcs.info/
+   3. https://zxcs.zip/
+   4. https://dl.askk.cc/cmcc/
+   5. https://beitai.cc/
+   6. https://zxcstxt.com/； 
+   7. https://zxcs.4everland.app/#/
+   8. 云盘
+      1. 阿里云盘（附上一些本地资源）：https://www.aliyundrive.com/s/xBrvZdxnAHw
+      2. 天翼云盘：https://cloud.189.cn/web/share?code=BVbyemJFVVnm
 2. 爱下电子书：https://www.aixdzs.com；提供小说txt、epub 格式下载
 3. 好读：https://www.haodoo.net/； 老网站了，繁体小说，有很多藏品
+4. 月曦yx： https://bbs.wcccc.cc
+5. LM： https://www.lm52.com
+6. 精校全本： https://noveless.com
+7. 爱迅好书： www.95yuedu.com
+8. 小云： www.moke08.com
+9. 书迷： www.quduba.com
+10. 奇书网： www.qishu.me
+11. 贼吧： www.zei8.vip
+12. 书客吧： www.shuke8.com
+13. 小云： www.xiaoyunbbs.cn
+14. 早安： zazww.com/forum.php?forumlist=1
+15. 精校吧： www.jingjiaoba.com
+16. 语梦： www.ymshu.com
+17. ESJ： www.esjzone.cc
+
+
 
 ### 1.3 小说搜索
 1. 先直接搜，笔趣阁一般都有
 2. owllook：https://www.owlook.com.cn/； 搜索引擎
+3. 先下载下来，再用本地阅读器看也挺好的
+
 
 ### 1.4 看小说心得
 > 这部分算是多年看小说私货吧，有条件的**支持正版**。
 1. 手机阅读
    1. 使用夸克浏览器，自带阅读模式
-   2. 酷安有一个软件叫“阅读”，自己导入书源，书源在评论区（http://www.yckceo1.com/）
+   2. 酷安有一个软件叫“阅读”，自己导入书源，书源在评论区（http://www.yckceo1.com/、https://legado.aoaostar.com/）
    3. 有很多渠道是可以免费阅读正版小说的，比如微信阅读，或者其他的，自己找找
+   4. 许多小说阅读器并不可靠，基本是换皮应用，内核一点没有，先免费吸引用户后加广告，“阅读”足矣
 2. 电脑阅读
    1. 有很多摸鱼阅读app，上班可以凑合用，自己搜一下就有了
    2. 这种一般需要导入txt文件的，具体参考1.2小说下载
@@ -57,4 +86,4 @@ title: 电子书（出版、小说）
 > 参考一下得了，彼之砒霜，吾之蜜糖，看书是很私人的事。
 1. 什么值得读：https://www.shenmezhidedu.com/
 2. 推书君：https://www.tuishujun.com/
-3. 各种公众号，论坛，视频网站
+3. 各种扫书公众号，论坛，视频网站，这里就不多介绍了。
