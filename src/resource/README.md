@@ -3,7 +3,7 @@ title: 资源库
 ---
 
 ## 1. 网站
-[常用网站](./websites/)
+[常用网站](./websites/site.md)
 
 [电子书（出版文学，网络小说）](./websites/e-book.md)
 

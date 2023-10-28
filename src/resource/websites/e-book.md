@@ -81,6 +81,8 @@ title: 电子书（出版、小说）
 > 插播：编程类书籍去哪找最方便？去GitHub和gitee啊，思路要打开
 9. 苦瓜书盘：https://kgbook.com/
 10. 微信读书
+11. 小刀盘搜索：https://www.xiaolipan.com/index.html； 在线免费kindle电子书下载网站和kindle电子搜索引擎
+12. 寻书：https://www.xunshu.xyz/#/
 
 ## 3. 推书
 > 参考一下得了，彼之砒霜，吾之蜜糖，看书是很私人的事。
