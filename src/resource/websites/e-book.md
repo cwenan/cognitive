@@ -70,19 +70,21 @@ title: 电子书（出版、小说）
 ## 2. 电子书
 
 ### 2.1 书籍网站
-1. 鸠摩搜索：https://www.jiumodiary.com/
-2. TheFuture书籍搜索：https://bks.thefuture.top
-3. 熊猫搜索：https://xmsoushu.com/#/； 导航网，推荐
-4. 古籍館：https://www.gujiguan.com/ 
-5. Z-library: https://singlelogin.re/；好用，但经常被墙，自己注册个账号吧，会分配个人域名，推荐
-6. 书格：https://www.shuge.org/，古籍图书馆，推荐
-7. 书堆阅读：https://www.werebook.com/
-8. 搬书酱：http://www.banshujiang.cn/； 编程类书籍
+1. 书享家：https://www.shuxiangjia.cn/
+2. 鸠摩搜索：https://www.jiumodiary.com/
+3. 走读派读书：http://zoudupai.com/
+4. TheFuture书籍搜索：https://bks.thefuture.top
+5. 熊猫搜索：https://xmsoushu.com/#/； 导航网，推荐
+6. 古籍館：https://www.gujiguan.com/ 
+7. Z-library: https://singlelogin.re/；好用，但经常被墙，自己注册个账号吧，会分配个人域名，推荐
+8. 书格：https://www.shuge.org/，古籍图书馆，推荐
+9. 书堆阅读：https://www.werebook.com/
+10. 搬书酱：http://www.banshujiang.cn/； 编程类书籍
 > 插播：编程类书籍去哪找最方便？去GitHub和gitee啊，思路要打开
-9. 苦瓜书盘：https://kgbook.com/
-10. 微信读书
-11. 小刀盘搜索：https://www.xiaolipan.com/index.html； 在线免费kindle电子书下载网站和kindle电子搜索引擎
-12. 寻书：https://www.xunshu.xyz/#/
+1. 苦瓜书盘：https://kgbook.com/
+2.  微信读书
+3.  小刀盘搜索：https://www.xiaolipan.com/index.html； 在线免费kindle电子书下载网站和kindle电子搜索引擎
+4.  寻书：https://www.xunshu.xyz/#/
 
 ## 3. 推书
 > 参考一下得了，彼之砒霜，吾之蜜糖，看书是很私人的事。
