@@ -17,7 +17,7 @@ title: 垂直导航
 13. 电子书导航：
     1.  书享家：https://www.shuxiangjia.cn/
     2.  走读派读书：http://zoudupai.com/
-14. 打架导航：http://www.dajiadaohang.com/
+14. 打假导航：http://www.dajiadaohang.com/
 15. 大数据导航：http://hao.199it.com/
 16. 产品经理导航：https://www.pmbaobao.com/
 17. 跨境电商导航：

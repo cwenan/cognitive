@@ -100,3 +100,7 @@ title: 电脑常用软件
   - 功能：粘贴版管理
   - 链接：https://ditto-cp.sourceforge.io/
 
+- TrafficMonitor
+  - 功能：显示显示网速、CPU、内存等数据
+  - 链接：https://github.com/zhongyang219/TrafficMonitor
+
