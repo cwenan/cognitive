@@ -11,7 +11,7 @@ tagline: 你的互联网资源库
 actions:
   # - text: 快速浏览 💡
   #   link: ./article/
-  #   type: primary
+  #   type: primarya
 
   - text: 更新记录
     link: ./other/history.html
