@@ -1,4 +1,4 @@
-cd E:\VueSite\my-site
+cd /E/VueSite/my-site
 
 git add .
 
