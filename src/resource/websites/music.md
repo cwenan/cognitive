@@ -12,12 +12,12 @@ title: 音乐无损下载、播放
 6. zz123音乐： https://zz123.com/
 7. 卡的工具箱：http://music.ijanz.cn/
 8. 顽狗音乐：https://music.dogged.cn/
-9. 网易云高仿：https://github.com/sl1673495/vue-netease-music，https://v-music.vercel.app
+9. 网易云高仿：https://github.com/sl1673495/vue-netease-music； https://v-music.vercel.app
 10. 音乐插件
    1. Search to play the song： https://chrome.google.com/webstore/detail/search-to-play-the-song/anfmgjkkbagjfdejhbjdiapgkbhpigpm?hl=zh-CN
    2. listen1： https://listen1.github.io/listen1/
    3. AHA Music： https://chrome.google.com/webstore/detail/aha-music-song-finder-for/dpacanjfikmhoddligfbehkpomnbgblf
-11. 网页云高仿：https://music.qier222.com/，https://github.com/qier222/YesPlayMusic
+11. 网页云高仿：https://music.qier222.com/； https://github.com/qier222/YesPlayMusic
 12. 熊仔音乐：http://www.xxoutman.cn/#/login
 13. 复古音乐电台：https://plaza.one/
 14. 音乐解锁： https://demo.unlock-music.dev/

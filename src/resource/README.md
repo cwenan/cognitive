@@ -18,6 +18,8 @@ title: 资源库
 [知乎盐选免费](./websites/zhihu.md)
 
 [PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH](./websites/game.md)
+
+[编程相关社区、博客、项目](./websites/coding.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
