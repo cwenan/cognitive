@@ -7,9 +7,9 @@ title: 资源库
 
 [专业垂直导航](./websites/nav.md)
 
-[电子书（出版文学，网络小说）](./websites/e-book.md)
+[电子书搜索、下载（出版文学，网络小说）](./websites/e-book.md)
 
-[影视动漫](./websites/movie.md)
+[影视动漫在线、国剧、欧美、港剧、日韩](./websites/movie.md)
 
 [无损音乐播放、下载](./websites/music.md)
 
@@ -21,7 +21,7 @@ title: 资源库
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
-[软件资源站](./software/site.md)
+[软件资源站合集](./software/site.md)
 
 ## 3. 云盘
-[网盘资料](./pan/README.md)
+[网盘资料合集](./pan/README.md)
