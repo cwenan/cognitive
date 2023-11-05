@@ -9,6 +9,10 @@ title: 网站导航
 
 [影视动漫](./movie.md)
 
+[无损音乐播放、下载](./music.md)
+
 [VIP短视频解析](videodownload.md)
 
 [知乎盐选免费](zhihu.md)
+
+[PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH](./game.md)
