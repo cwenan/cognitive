@@ -3,8 +3,12 @@ head:
  - - meta
    - name: bytedance-verification-code
      content: HOoUWTgn+NFfJ2q/Eegd
+ - - meta
    - name: 360-site-verification
      content: 89f5cce574aab1c04a22abe6b63e46a0
+ - - meta
+   - name: baidu-site-verification
+     content: codeva-8M5Ir9vcd6
 home: true
 icon: home
 title: 主页
