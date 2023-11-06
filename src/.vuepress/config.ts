@@ -1,7 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
-import { photoSwipePlugin } from "vuepress-plugin-photo-swipe";
 import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 export default defineUserConfig({
@@ -32,12 +31,8 @@ export default defineUserConfig({
       ],
     }),
 
-    // 图片预览
-    photoSwipePlugin({
-      // 你的选项
-    }),
 
-
+    // 生成网站地图
     sitemapPlugin({
       hostname: "yuluo.space"
     }),
