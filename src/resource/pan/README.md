@@ -32,3 +32,7 @@ title: 云盘
 
 - 精品音乐网盘合集
 [音乐无损下载、播放](../websites/music.md)
+
+
+- 淘宝自费购买游戏合集(979款单机游戏)： https://www.aliyundrive.com/s/JHiAdjz6MEj
+  

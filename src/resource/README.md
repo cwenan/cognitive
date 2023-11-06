@@ -20,8 +20,12 @@ title: 资源库
 [PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH](./websites/game.md)
 
 [编程相关社区、博客、项目](./websites/coding.md)
+
+[搜索引擎推送：站长工具](./websites/search%20engine.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
+
+[Android软件](./software/Android.md)
 
 [软件资源站合集](./software/site.md)
 

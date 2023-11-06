@@ -32,6 +32,7 @@ title: 编程相关社区、博客、项目
 ## 导航类
 1. SpringBoot中文索引：http://springboot.fun/
 2. 前端导航：http://www.alloyteam.com/nav/
+3. 计算机自学：https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
 
 
 ## 博主类
@@ -47,6 +48,6 @@ title: 编程相关社区、博客、项目
 
 还有许多其他的优秀博主或网站，忘记了，太久没敲代码了，等记起来再补上吧。
 
-我读书时也是学计算机的，对技术很是痴迷，现在回头看来，当初的想法多少有点幼稚了。
+见信读书时也是学计算机的，对技术很是痴迷，现在回头看来，当初的想法多少有点幼稚了。
 
 可以学技术，但是不能只学技术，世界很大，多去看看。

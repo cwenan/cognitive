@@ -18,3 +18,5 @@ title: 网站导航
 [PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH](./game.md)
 
 [编程相关社区、博客、项目](./coding.md)
+
+[搜索引擎推送：站长工具](./search%20engine.md)
