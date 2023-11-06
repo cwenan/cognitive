@@ -9,6 +9,9 @@ head:
  - - meta
    - name: baidu-site-verification
      content: codeva-GIfS4i8sem
+ - - meta
+   - name: sogou_site_verification
+     content: Ah33XXjUqx
 home: true
 icon: home
 title: 主页
