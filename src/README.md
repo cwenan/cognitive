@@ -8,7 +8,7 @@ head:
      content: 89f5cce574aab1c04a22abe6b63e46a0
  - - meta
    - name: baidu-site-verification
-     content: codeva-8M5Ir9vcd6
+     content: codeva-GIfS4i8sem
 home: true
 icon: home
 title: 主页
