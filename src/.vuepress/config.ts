@@ -2,6 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 import { photoSwipePlugin } from "vuepress-plugin-photo-swipe";
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 
 export default defineUserConfig({
   base: "/",
@@ -35,6 +36,12 @@ export default defineUserConfig({
     photoSwipePlugin({
       // 你的选项
     }),
+
+
+    sitemapPlugin({
+      hostname: "yuluo.space"
+    }),
+
   ],
   // Enable it with pwa
   // shouldPrefetch: false,

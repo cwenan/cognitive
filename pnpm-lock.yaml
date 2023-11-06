@@ -20,6 +20,9 @@ devDependencies:
   vuepress-plugin-search-pro:
     specifier: 2.0.0-beta.238
     version: registry.npmmirror.com/vuepress-plugin-search-pro@2.0.0-beta.238(vuepress@2.0.0-beta.67)
+  vuepress-plugin-sitemap2:
+    specifier: 2.0.0-beta.245
+    version: registry.npmmirror.com/vuepress-plugin-sitemap2@2.0.0-beta.245(vuepress@2.0.0-beta.67)
   vuepress-theme-hope:
     specifier: 2.0.0-beta.237
     version: registry.npmmirror.com/vuepress-theme-hope@2.0.0-beta.237(vuepress@2.0.0-beta.67)
@@ -8093,6 +8096,35 @@ packages:
     transitivePeerDependencies:
       - '@vue/composition-api'
       - supports-color
+    dev: true
+
+  registry.npmmirror.com/vuepress-plugin-sitemap2@2.0.0-beta.245(vuepress@2.0.0-beta.67):
+    resolution: {integrity: sha512-7TMobsK+fo55erXHr9QS2oEhxZ52i+VS/eeh+8Taar0yp2nL4TpQCPPyY6cL99mGWtPKAnokFpATAhWlAeYkMg==, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/vuepress-plugin-sitemap2/-/vuepress-plugin-sitemap2-2.0.0-beta.245.tgz}
+    id: registry.npmmirror.com/vuepress-plugin-sitemap2/2.0.0-beta.245
+    name: vuepress-plugin-sitemap2
+    version: 2.0.0-beta.245
+    engines: {node: '>=18.16.0', npm: '>=8', pnpm: '>=7'}
+    peerDependencies:
+      vuepress: 2.0.0-beta.67
+      vuepress-vite: 2.0.0-beta.67
+      vuepress-webpack: 2.0.0-beta.67
+    peerDependenciesMeta:
+      vuepress:
+        optional: true
+      vuepress-vite:
+        optional: true
+      vuepress-webpack:
+        optional: true
+    dependencies:
+      '@vuepress/shared': registry.npmmirror.com/@vuepress/shared@2.0.0-beta.67
+      '@vuepress/utils': registry.npmmirror.com/@vuepress/utils@2.0.0-beta.67
+      sitemap: registry.npmmirror.com/sitemap@7.1.1
+      vuepress: registry.npmmirror.com/vuepress@2.0.0-beta.67(@vuepress/client@2.0.0-beta.67)(vue@3.3.4)
+      vuepress-shared: registry.npmmirror.com/vuepress-shared@2.0.0-beta.245(vuepress@2.0.0-beta.67)
+    transitivePeerDependencies:
+      - '@vue/composition-api'
+      - supports-color
+      - typescript
     dev: true
 
   registry.npmmirror.com/vuepress-shared@2.0.0-beta.237(vuepress@2.0.0-beta.67):
