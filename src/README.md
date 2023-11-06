@@ -12,6 +12,9 @@ head:
  - - meta
    - name: sogou_site_verification
      content: Ah33XXjUqx
+ - - meta
+   - name: shenma-site-verification
+     content: 9a31dd1f588eddcf80b4014a80159c03_1699264422
 home: true
 icon: home
 title: 主页
