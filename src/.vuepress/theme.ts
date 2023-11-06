@@ -29,9 +29,10 @@ export default hopeTheme({
 
   displayFooter: true,
 
+  //加密功能
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
+      // "/resource/pan/": ["1234"],
     },
   },
 

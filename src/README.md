@@ -1,4 +1,8 @@
 ---
+head: 
+ - - meta
+   - name: bytedance-verification-code
+     content: HOoUWTgn+NFfJ2q/Eegd
 home: true
 icon: home
 title: 主页
@@ -39,7 +43,6 @@ highlights:
 
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
 ---
 
 

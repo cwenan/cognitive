@@ -1,6 +1,7 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { photoSwipePlugin } from "vuepress-plugin-photo-swipe";
 
 export default defineUserConfig({
   base: "/",
@@ -28,6 +29,11 @@ export default defineUserConfig({
           formatter: "标签：$content",
         },
       ],
+    }),
+
+    // 图片预览
+    photoSwipePlugin({
+      // 你的选项
     }),
   ],
   // Enable it with pwa
