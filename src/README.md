@@ -14,7 +14,7 @@ head:
 
  - - meta
    - name: sogou_site_verification
-     content: Ah33XXjUqx
+     content: NPbJM3cdHM
 
  - - meta
    - name: shenma-site-verification
