@@ -1,6 +1,7 @@
 ---
 title: 云盘
 ---
+> 资源失效可联系见信，微信：yhalway
 
 - 2024考研无水印资料：链接：https://pan.baidu.com/s/13Ri6dGkT3xHkq4cHAulCQQ 提取码：xkoa 
   

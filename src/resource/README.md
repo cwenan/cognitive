@@ -1,7 +1,7 @@
 ---
 title: 资源库
 ---
-
+> 资源失效可联系见信，微信：yhalway
 ## 1. 网站
 [常用网站](./websites/site.md)
 
