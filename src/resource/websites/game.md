@@ -1,7 +1,8 @@
 ---
-title: PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH
+title: PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH、在线小游戏
 ---
 
+## PC
 1. 三大妈：https://dl.3dmgame.com/
 2. 游侠：https://down.ali213.net/pcgame/
 3. Repack game：https://repack-games.com/
@@ -34,3 +35,7 @@ title: PC游戏下载、攻略、资讯、破解、单机、PS、SWITCH
 
 
 
+## 在线
+1. 植物大战僵尸：https://pvz.heheda.top/
+2. 信任的进化：https://dccxi.com/trust/
+3. 自由钢琴：https://www.autopiano.cn/

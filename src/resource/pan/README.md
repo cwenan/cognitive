@@ -35,4 +35,20 @@ title: 云盘
 
 
 - 淘宝自费购买游戏合集(979款单机游戏)： https://www.aliyundrive.com/s/JHiAdjz6MEj
+
+- 100位国外摄影大师作品
+https://www.aliyundrive.com/s/uEerzQMsqJW
+
+- 起点网络小说精选
+https://www.aliyundrive.com/s/1bkhmfMmw3T
+
+- 计算机丛书
+  https://www.aliyundrive.com/s/KMwNZ5S3jqW
+
+
+- Adobe2023破解版（vposy版）
+ 链接：https://pan.baidu.com/s/13R62N4hgZ5yw8B90JpPPIg 
+ 提取码：4i0s 
+ 解压密码：@vposy
+
   

@@ -44,7 +44,7 @@ highlights:
 
       - title: 文章合集
         icon: book
-        details: 深度内容
+        details: 赚钱、思维、潜规则
         link: ./article/
 
       - title: 资源库
