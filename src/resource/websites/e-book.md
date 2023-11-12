@@ -48,7 +48,6 @@ title: 电子书（出版、小说）
 17. ESJ： www.esjzone.cc
 
 
-
 ### 1.3 小说搜索
 1. 先直接搜，笔趣阁一般都有
 2. owllook：https://www.owlook.com.cn/； 搜索引擎
@@ -59,7 +58,7 @@ title: 电子书（出版、小说）
 > 这部分算是多年看小说私货吧，有条件的**支持正版**。
 1. 手机阅读
    1. 使用夸克浏览器，自带阅读模式
-   2. 酷安有一个软件叫“阅读”，自己导入书源，书源在评论区（http://www.yckceo1.com/、https://legado.aoaostar.com/）
+   2. 酷安有一个软件叫“阅读”，自己导入书源，书源在评论区（http://www.yckceo1.com/、https://legado.aoaostar.com/）； https://www.yuque.com/legado/wiki/xz； https://legado.cn/
    3. 有很多渠道是可以免费阅读正版小说的，比如微信阅读，或者其他的，自己找找
    4. 许多小说阅读器并不可靠，基本是换皮应用，内核一点没有，先免费吸引用户后加广告，“阅读”足矣
 2. 电脑阅读

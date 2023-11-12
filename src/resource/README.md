@@ -22,6 +22,8 @@ title: 资源库
 [编程相关社区、博客、项目](./websites/coding.md)
 
 [搜索引擎推送：站长工具](./websites/search%20engine.md)
+
+[今日热榜、资讯、新闻](./websites/news.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
