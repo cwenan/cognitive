@@ -11,6 +11,7 @@ export default navbar([
 
   {
     text: "文章合集",
+    icon: "laptop-code",
     link: "/article/"
   },
 
