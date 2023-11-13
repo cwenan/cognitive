@@ -19,5 +19,5 @@ title: 文章合集
 
 ### 副业项目
 1. [近1000个知乎赚钱案例，付费购买价值328元](./internal/zhihuearnmoney.md)
-2. [2023年最新100+个搞钱路子](./internal/100%2Bmakemoney.md)
+2. [2023年最新100+个搞钱路子](./internal/100plustomakemoney.md)
 
