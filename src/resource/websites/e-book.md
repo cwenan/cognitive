@@ -46,6 +46,7 @@ title: 电子书（出版、小说）
 15. 精校吧： www.jingjiaoba.com
 16. 语梦： www.ymshu.com
 17. ESJ： www.esjzone.cc
+18. sadtxt：https://www.sadtxt.com/
 
 
 ### 1.3 小说搜索
