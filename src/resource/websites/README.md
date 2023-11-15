@@ -25,3 +25,5 @@ title: 网站导航
 [搜索引擎推送：站长工具](./search%20engine.md)
 
 [今日热榜、资讯、新闻](./news.md)
+
+[ChatGPT、大模型AI网站导航](./gpt.md)

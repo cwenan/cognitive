@@ -24,6 +24,10 @@ title: 资源库
 [搜索引擎推送：站长工具](./websites/search%20engine.md)
 
 [今日热榜、资讯、新闻](./websites/news.md)
+
+[ChatGPT、大模型AI网站导航](./gpt.md)
+
+
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
