@@ -25,7 +25,7 @@ title: 资源库
 
 [今日热榜、资讯、新闻](./websites/news.md)
 
-[ChatGPT、大模型AI网站导航](./gpt.md)
+[ChatGPT、大模型AI网站导航](./websites/gpt.md)
 
 [免费行业研究报告汇总](./websites/report.md)
 
