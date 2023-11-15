@@ -27,6 +27,8 @@ title: 资源库
 
 [ChatGPT、大模型AI网站导航](./gpt.md)
 
+[免费行业研究报告汇总](./websites/report.md)
+
 
 ## 2. 软件
 [电脑常用软件](./software/pc.md)

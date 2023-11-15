@@ -27,3 +27,5 @@ title: 网站导航
 [今日热榜、资讯、新闻](./news.md)
 
 [ChatGPT、大模型AI网站导航](./gpt.md)
+
+[免费行业研究报告汇总](./report.md)
