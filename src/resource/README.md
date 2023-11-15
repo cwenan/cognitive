@@ -29,7 +29,7 @@ title: 资源库
 
 [免费行业研究报告汇总](./websites/report.md)
 
-
+[在线数字名片、永久页](./websites/idlink.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
