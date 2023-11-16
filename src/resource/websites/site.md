@@ -18,7 +18,7 @@ title: 常用网站
 
 ## 影视
 [影视资源](movie.md)
-茶杯狐，多年自用：https://cupfox.app/
+茶杯狐，多年自用（好像出问题了）：https://cupfox.app/
 仿奈飞：https://www.tvfans.top/
 
  

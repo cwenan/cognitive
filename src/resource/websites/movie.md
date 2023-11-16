@@ -4,15 +4,15 @@ title: 在线影视、动漫
 > 部分网站打不开的原因是网络问题（原因你知道的，欢迎反馈）
 
 ## 电影类
-1. 茶杯狐：https://cupfox.app/
-2. 茶杯虎：https://www.725998.com/
-3. 电影狗：https://www.dianyinggou.com/
-4. 哔嘀影视：https://www.bdys10.com/ 高清
+
+1. 茶杯虎：https://www.725998.com/
+2. 电影狗：https://www.dianyinggou.com/
+3. 哔嘀影视：https://www.bdys10.com/ 高清
    1. 地址发布页：https://www.bdys.me/
-5. 大米星球：https://dami6.vip/ 高清
+4. 大米星球：https://dami6.vip/ 高清
    1. 地址发布页1：https://dmxq.net/
    2. 地址发布页2：https://dmxq.vip/
-6. 素白白影视：https://www.subaibaiys.com/
+5. 素白白影视：https://www.subaibaiys.com/
    1. 地址发布页：https://subaibai.vip/
 7. 低端影视：https://ddys.art/
    1. 地址发布页：https://ddys.info/
