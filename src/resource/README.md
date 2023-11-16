@@ -33,7 +33,7 @@ title: 资源库
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
-[知识管理软件](./softwareknowledge.md)
+[知识管理软件](./software/softwareknowledge.md)
 
 [Android软件](./software/Android.md)
 

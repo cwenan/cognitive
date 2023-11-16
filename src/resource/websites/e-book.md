@@ -19,6 +19,8 @@ title: 电子书（出版、小说）
 12. 掌阅：https://www.ireader.com.cn/
 
 ### 1.2 小说下载
+> 有条件的请支持正版，先上车后补票都是可以的，最不济的投个推荐票吧（推荐票免费）
+
 1. 知轩藏书（都试一试嘛）：
    1. 资讯：https://zxcs.wiki/
    2. https://www.zxcs.info/
