@@ -81,9 +81,10 @@ title: 电子书（出版、小说）
 5. 熊猫搜索：https://xmsoushu.com/#/； 导航网，推荐
 6. 古籍館：https://www.gujiguan.com/ 
 7. Z-library: https://singlelogin.re/；好用，但经常被墙，自己注册个账号吧，会分配个人域名，推荐
-8. 书格：https://www.shuge.org/，古籍图书馆，推荐
-9. 书堆阅读：https://www.werebook.com/
-10. 搬书酱：http://www.banshujiang.cn/； 编程类书籍
+8. Z-library共享账号：https://looks.wang/
+9. 书格：https://www.shuge.org/，古籍图书馆，推荐
+10. 书堆阅读：https://www.werebook.com/
+11. 搬书酱：http://www.banshujiang.cn/； 编程类书籍
 > 插播：编程类书籍去哪找最方便？去GitHub和gitee啊，思路要打开
 1. 苦瓜书盘：https://kgbook.com/
 2.  微信读书
