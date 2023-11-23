@@ -33,3 +33,5 @@ title: 网站导航
 [在线数字名片、永久页](./idlink.md)
 
 [学术论文、谷歌学术导航](./academic.md)
+
+[微信工具](./wechat.md)

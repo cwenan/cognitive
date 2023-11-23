@@ -32,6 +32,8 @@ title: 资源库
 [在线数字名片、永久页](./websites/idlink.md)
 
 [学术论文、谷歌学术导航](./websites/academic.md)
+
+[微信工具](./websites/wechat.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
