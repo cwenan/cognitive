@@ -52,4 +52,22 @@ https://www.aliyundrive.com/s/1bkhmfMmw3T
  提取码：4i0s 
  解压密码：@vposy
 
-  
+- 34种行业分类电子书大全.Epub格式
+ https://pan.quark.cn/s/b73f9fa166a4
+
+
+- 得到精品付费课程
+  https://pan.quark.cn/s/d69722e986bb
+
+- 国学太极八卦咏春健身合集
+  https://pan.quark.cn/s/c5a0df6d6c7a
+
+- 恋爱聊天训练营
+  https://pan.quark.cn/s/79b4a0dbe804
+
+- 魅力男神教程
+  https://pan.quark.cn/s/e4732d100d79
+
+- 冷门赚钱暴力项目（六册全）
+
+链接：https://pan.quark.cn/s/d0cf4b1434bf
