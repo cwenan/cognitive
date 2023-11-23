@@ -23,6 +23,6 @@ title: 微信工具
 5. 真实好友（Android）：检测好友状态工具：https://www.litiaotiao.com/zhenshihaoyou.html
 > 顺便推荐李跳跳出品的派大星APP（**自动跳广告**）：https://www.litiaotiao.com/litiaotiao.html；
 > 导入第三方规则：
-> 1. 前往 李跳跳在线规则页面 复制规则 （如无法打开可访问备用链接：李跳跳全部规则 全选内容复制）
+> 1. 前往 李跳跳在线规则页面，复制规则
 > 2. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击 “保存”。
 > 规则链接：https://testingcf.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@main/AllRules.json
