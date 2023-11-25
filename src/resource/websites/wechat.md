@@ -1,5 +1,5 @@
 ---
-title: 微信工具
+title: 微信辅助工具
 ---
 1. 微信集赞
    1. https://blog.itakeo.com/blog/?p=915

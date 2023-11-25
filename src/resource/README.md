@@ -33,11 +33,13 @@ title: 资源库
 
 [学术论文、谷歌学术导航](./websites/academic.md)
 
-[微信工具](./websites/wechat.md)
+[微信辅助工具](./websites/wechat.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
 [知识管理软件](./software/softwareknowledge.md)
+
+[office办公辅助插件工具](./software/office.md)
 
 [Android软件](./software/Android.md)
 

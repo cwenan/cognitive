@@ -34,4 +34,5 @@ title: 网站导航
 
 [学术论文、谷歌学术导航](./academic.md)
 
-[微信工具](./wechat.md)
+[微信辅助工具](./wechat.md)
+
