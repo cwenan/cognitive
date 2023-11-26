@@ -71,9 +71,9 @@ title: 在线影视、动漫
 
 
 ## 动漫类
-1.  动漫233网：http://233dm.net/
-2.  NT动漫：http://www.ntdm9.com/
-3.  樱花动漫：http://www.yhdongman.xyz/
-4.  AGE动漫：https://www.agedm.org/  
-5.  番剧放送：https://bgmlist.com/
-6.  
+1.  Mx动漫：https://www.mxdm9.com/
+2.  动漫233网：http://233dm.net/
+3.  NT动漫：http://www.ntdm9.com/
+4.  樱花动漫：http://www.yhdongman.xyz/
+5.  AGE动漫：https://www.agedm.org/  
+6.  番剧放送：https://bgmlist.com/
