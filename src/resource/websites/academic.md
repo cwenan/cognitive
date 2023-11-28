@@ -18,3 +18,5 @@ title: 学术论文、谷歌学术导航
 10. 公益学术平台：https://pubscholar.cn/
 11. 柠檬文献：http://sci-hub.fan/
 12. 小木虫论坛：https://muchong.com/bbs/index.php
+13. 烟海：http://www.yanhainav.cn/
+   
