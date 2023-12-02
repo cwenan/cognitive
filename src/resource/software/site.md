@@ -17,6 +17,7 @@ title: 软件资源站
 12. 果核剥壳：https://www.ghxi.com/
 13. 423down：https://www.423down.com/
 14. 小兵下载站：https://7xiazai.com/
+15. 软件资源库：https://ruanjianku.cloud/
 
 
 ## 网盘类
