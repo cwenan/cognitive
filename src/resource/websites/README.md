@@ -36,3 +36,5 @@ title: 网站导航
 
 [微信辅助工具](./wechat.md)
 
+[常用下载器](./download.md)
+

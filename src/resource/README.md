@@ -34,6 +34,8 @@ title: 资源库
 [学术论文、谷歌学术导航](./websites/academic.md)
 
 [微信辅助工具](./websites/wechat.md)
+
+[常用下载器](./websites/download.md)
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 

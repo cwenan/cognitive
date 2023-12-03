@@ -69,6 +69,15 @@ title: 电子书（出版、小说）
       1. Reader：https://d.appinn.com/binbyu-reader/
       2. 
    2. 这种一般需要导入txt文件的，具体参考1.2小说下载
+3. 苹果手机
+   1. 鉴于不怎么用果，只能发点别人发的
+   2. 下载链接：https://apps.apple.com/cn/app/id1662413517
+   3. 书源（直接复制网络导入）
+      1. https://cdn.jsdelivr.net/gh/France113/elmjiejin@main/Fyxzgrl.DuBuSheShou.json
+      2. https://gitlab.com/ioshkj/shuyuan/-/raw/main/bookyuan_2946.json
+      3. https://gitlab.com/ioshkj/shuyuan/-/raw/main/bookyuan_3000.json
+      4. https://gitlab.com/ioshkj/shuyuan/-/raw/main/bookyuan_9000.json
+      5. Ttps：不建议导入太多，导入速度慢的话，建议使用移动数据
 
 
 ## 2. 电子书
