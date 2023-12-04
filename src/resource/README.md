@@ -39,7 +39,7 @@ title: 资源库
 ## 2. 软件
 [电脑常用软件](./software/pc.md)
 
-[知识管理软件](./software/softwareknowledge.md)
+[知识管理软件](./software/knowledge.md)
 
 [office办公辅助插件工具](./software/office.md)
 

@@ -69,5 +69,7 @@ https://www.aliyundrive.com/s/1bkhmfMmw3T
   https://pan.quark.cn/s/e4732d100d79
 
 - 冷门赚钱暴力项目（六册全）
+  链接：https://pan.quark.cn/s/d0cf4b1434bf
 
-链接：https://pan.quark.cn/s/d0cf4b1434bf
+- 网易云办公精品付费课程
+  链接：https://pan.quark.cn/s/790b341cd8ab
