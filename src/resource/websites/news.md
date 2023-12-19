@@ -30,3 +30,4 @@ title: 今日热榜、资讯、新闻
 26. 今日热榜：https://hot.vvhan.com/
 27. 值得一读技术博客：https://daily-blog.chlinlearn.top/
 28. 什么值得看：https://smzdk.top/#/
+29. 各地报纸：http://www.53bk.com/Baokan/?type=1&isrgn=1
