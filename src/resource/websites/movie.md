@@ -27,6 +27,7 @@ title: 在线影视、动漫
 15. 歪片星球：https://waipian14.com/
 16. cokemv：https://cokemv.co/
 17. 豌豆pro：https://www.wandou.la/
+18. 麻衣呼呼：https://www.huanyuxing.com/
 
 
 ## 欧美类
