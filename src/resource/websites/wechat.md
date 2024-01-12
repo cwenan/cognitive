@@ -26,3 +26,8 @@ title: 微信辅助工具
 > 1. 前往 李跳跳在线规则页面，复制规则
 > 2. 打开 “李跳跳”，点击 “更多”，点击右上角三个小点，点击 “导入规则”，长按输入框，选择 “粘贴”，点击 “保存”。
 > 规则链接：https://testingcf.jsdelivr.net/gh/Snoopy1866/LiTiaotiao-Custom-Rules@main/AllRules.json
+
+6. 公众号排版工具：
+   1. http://md.aclickall.com/
+   2. https://mdnice.com/
+   3. 

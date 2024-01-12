@@ -44,6 +44,8 @@ title: 常用网站
 偏书签类：http://www.isworld.net
 真的值得买导航：http://www.zdmdh.com/：
 好用，好看：https://xydh.fun/
+龙轩导航：http://ilxdh.com/
+
  
 
 ## 科普
@@ -59,8 +61,8 @@ title: 常用网站
 
 ## 网盘
 https://yunpan.cloud/：网盘导航
- 
 
-## 魔法
-有机会再写。
+## 插件
+https://www.crx4chrome.com/
+https://chrome.zzzmh.cn/#/search
  
