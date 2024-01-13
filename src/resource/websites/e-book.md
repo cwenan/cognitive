@@ -50,6 +50,10 @@ title: 电子书（出版、小说）
 17. ESJ： www.esjzone.cc
 18. sadtxt：https://www.sadtxt.com/
 
+---
+24年更新
+1. 书源集合：https://github.com/shidahuilang/shuyuan
+
 
 ### 1.3 小说搜索
 1. 先直接搜，笔趣阁一般都有
@@ -99,6 +103,11 @@ title: 电子书（出版、小说）
 2.  微信读书
 3.  小刀盘搜索：https://www.xiaolipan.com/index.html； 在线免费kindle电子书下载网站和kindle电子搜索引擎
 4.  寻书：https://www.xunshu.xyz/#/
+
+---
+24更新
+1. 24h搜书网：https://24hbook.com/
+2. 
 
 ## 3. 推书
 > 参考一下得了，彼之砒霜，吾之蜜糖，看书是很私人的事。

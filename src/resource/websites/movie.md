@@ -3,6 +3,11 @@ title: 在线影视、动漫
 ---
 > 部分网站打不开的原因是网络问题（原因你知道的，欢迎反馈）
 
+## 电影查找
+1. BestSimilar：https://bestsimilar.com/
+2. 豆瓣250：https://movie.douban.com/top250
+3. a good movie to watch：https://agoodmovietowatch.com/
+
 ## 电影类
 
 1. 茶杯虎：https://www.725998.com/
