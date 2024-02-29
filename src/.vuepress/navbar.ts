@@ -9,11 +9,19 @@ export default navbar([
   //   link: "https://theme-hope.vuejs.press/",
   // },
 
+
+  {
+    text: "资讯日报",
+    icon: "laptop-code",
+    link: "/article/newsletter/"
+  },
+
   {
     text: "文章合集",
     icon: "laptop-code",
     link: "/article/"
   },
+
 
   {
     text: "资源库",
