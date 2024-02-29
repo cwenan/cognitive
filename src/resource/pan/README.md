@@ -3,7 +3,11 @@ title: 云盘
 ---
 > 资源失效可联系见信，微信：yhalway
 
+- 「抖音199清华李一舟AI资料教程视频和文档】」链接：https://pan.quark.cn/s/8d3317dd712e
+
 - 2024考研无水印资料：链接：https://pan.baidu.com/s/13Ri6dGkT3xHkq4cHAulCQQ 提取码：xkoa 
+
+- 天涯社区优质书籍：链接：https://pan.quark.cn/s/6e47a2447a4f
   
 - 计算机经典书籍：https://gitee.com/grindgold/pdf
 
