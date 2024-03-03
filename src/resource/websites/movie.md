@@ -84,3 +84,9 @@ title: 在线影视、动漫
 4.  樱花动漫：http://www.yhdongman.xyz/
 5.  AGE动漫：https://www.agedm.org/  
 6.  番剧放送：https://bgmlist.com/
+
+
+## 电影推荐
+https://bestsimilar.com/
+
+https://agoodmovietowatch.com/
