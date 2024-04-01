@@ -17,8 +17,7 @@ title: 文章合集
 2. [天涯绝密文档（全）](./internal/tianya.md)
 3. [石勇讲心理付费合集](./internal/shiyong.md)
 4. [人性绝密天书](./internal/renxingjuemitianshu.md)
-5. [财新周刊（每周更新)](./internal/caixin.md)
-6. [三眼观天下付费](./internal/sanyan.md)
+5. [三眼观天下付费](./internal/sanyan.md)
 
 ### 副业项目
 1. [近1000个知乎赚钱案例，付费购买价值328元](./internal/zhihuearnmoney.md)
