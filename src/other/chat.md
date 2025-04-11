@@ -41,10 +41,10 @@ DIKW模型指数据、信息、知识、智慧四个层次。
 
 定价：78/年，每天更新
 
-目前已经沉淀了**1000+付费文章+各种绝版电子书，入门即回本**。
+目前已经沉淀了**1000+深度付费文章+各种精美课程入门即回本**。
 
 3. 联系方式：
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/bAbgLn3CROYBZzIE1CdfiaqsXYFP6J6kouHwN6lI9uqb6KOGNr1HapjQfcW7xgWo9XD7pEhmo6qBfxVQM8moMQQ/640?wx_fmt=jpeg&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1&wx_co=1)
+![图片](./wechat01.jpg）
 
 加我好友可以免费领取3篇深度文章，请注明来意
