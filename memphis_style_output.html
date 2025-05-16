@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>竞争思考 - 孟菲斯风</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;700;800;900&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        /* 全局样式与孟菲斯设计 */
+        :root {
+            --memphis-yellow: #FFDD00;
+            --memphis-blue: #0052FF;
+            --memphis-pink: #FF69B4;
+            --memphis-green: #50E3C2;
+            --memphis-orange: #FFA500;
+            --memphis-black: #000000;
+            --memphis-white: #FFFFFF;
+            --memphis-light-gray: #F0F0F0;
+            --memphis-medium-gray: #D3D3D3;
+
+            --font-heading: 'Bebas Neue', 'Montserrat', sans-serif;
+            --font-body: 'Open Sans', 'Montserrat', sans-serif;
+        }
+
+        body {
+            font-family: var(--font-body);
+            background-color: var(--memphis-light-gray);
+            color: var(--memphis-black);
+            margin: 0;
+            padding: 20px;
+            line-height: 1.7;
+            /* 可选的细微纹理 */
+            background-image: radial-gradient(circle, rgba(0,0,0,0.03) 1px, transparent 1px);
+            background-size: 15px 15px;
+            overflow-x: hidden; /* 防止水平滚动条 */
+        }
+
+        .memphis-container {
+            max-width: 900px;
+            margin: 0 auto;
+            display: grid;
+            gap: 40px; /* 卡片间距 */
+        }
+
+        .memphis-card {
+            background-color: var(--memphis-white);
+            padding: 30px 35px;
+            border-radius: 8px; /* 轻微圆角模拟纸片 */
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            position: relative; /* 用于内部绝对定位元素 */
+            overflow: hidden; /* 确保装饰元素不溢出卡片边界 */
+            border: 2px solid var(--memphis-black); /* 统一的黑色边框 */
+        }
+
+        /* 卡片装饰元素 - 随机化一些 */
+        .memphis-card::before,
+        .memphis-card::after {
+            content: '';
+            position: absolute;
+            z-index: 0; /* 在内容之下 */
+        }
+
+        /* 示例装饰：一些卡片左上角有色块 */
+        .memphis-card:nth-child(5n+1)::before {
+            width: 80px;
+            height: 80px;
+            background-color: var(--memphis-yellow);
+            top: -20px;
+            left: -20px;
+            transform: rotate(-15deg);
+            border-radius: 12px;
+        }
+        
+        .memphis-card:nth-child(5n+2)::before {
+            width: 100px;
+            height: 15px;
+            background-color: var(--memphis-blue);
+            top: 20px;
+            right: -30px;
+            transform: rotate(10deg);
+        }
+        
+        .memphis-card:nth-child(5n+3)::after {
+            width: 60px;
+            height: 60px;
+            background-color: var(--memphis-pink);
+            bottom: -15px;
+            left: 30%;
+            border-radius: 50%; /* 圆形 */
+        }
+
+        .memphis-card:nth-child(5n+4)::before {
+            content: '';
+            position: absolute;
+            width: 10px;
+            height: 150px;
+            background-color: var(--memphis-green);
+            top: 50%;
+            left: -5px;
+            transform: translateY(-50%);
+            z-index: 0;
+        }
+        
+        .memphis-card:nth-child(5n)::after {
+            content: '';
+            position: absolute;
+            width: 120px;
+            height: 30px;
+            background: repeating-linear-gradient(
+                45deg,
+                var(--memphis-orange),
+                var(--memphis-orange) 10px,
+                transparent 10px,
+                transparent 20px
+            );
+            bottom: 10px;
+            right: -40px;
+            transform: rotate(-20deg);
+            z-index: 0;
+        }
+
+
+        .card-content {
+            position: relative; /* 确保内容在装饰之上 */
+            z-index: 1;
+        }
+
+        .memphis-focus {
+            font-family: var(--font-heading);
+            font-size: 2.8rem; /* 显著字号 */
+            font-weight: 900; /* Montserrat Black or Bebas Neue */
+            color: var(--memphis-black);
+            margin-bottom: 20px;
+            margin-top: 0;
+            line-height: 1.1;
+            display: inline-block; /* 允许背景和padding */
+            padding: 5px 10px;
+            position: relative; /* For pseudo-elements */
+        }
+
+        /* 孟菲斯焦点强调样式 */
+        .memphis-focus.style-1 {
+            background-color: var(--memphis-yellow);
+            color: var(--memphis-black);
+        }
+        .memphis-focus.style-2 {
+            color: var(--memphis-blue);
+            border-bottom: 5px solid var(--memphis-blue);
+        }
+        .memphis-focus.style-3::before {
+            content: '';
+            position: absolute;
+            left: -10px;
+            top: -5px;
+            width: 20px;
+            height: 20px;
+            background-color: var(--memphis-pink);
+            border-radius: 50%;
+            z-index: -1;
+        }
+         .memphis-focus.style-3 {
+            color: var(--memphis-black);
+            padding-left: 15px;
+        }
+
+        .memphis-focus.style-4 {
+            background: linear-gradient(120deg, var(--memphis-green) 0%, var(--memphis-orange) 100%);
+            color: var(--memphis-white);
+            -webkit-text-stroke: 1px var(--memphis-black); /* 描边 */
+            text-stroke: 1px var(--memphis-black);
+            padding: 8px 15px;
+        }
+         .memphis-focus.style-5 {
+            color: var(--memphis-black);
+            position: relative;
+            z-index: 1;
+        }
+        .memphis-focus.style-5::after { /* 模拟错位色块 */
+            content: attr(data-text); /* 使用 data-text 属性复制文本 */
+            position: absolute;
+            left: 5px;
+            top: 5px;
+            color: var(--memphis-pink);
+            z-index: -1;
+            -webkit-text-stroke: 1px var(--memphis-black);
+            text-stroke: 1px var(--memphis-black);
+        }
+
+
+        .memphis-card p {
+            font-size: 1rem;
+            color: #333;
+            margin-bottom: 1em;
+        }
+
+        .memphis-card p:last-child {
+            margin-bottom: 0;
+        }
+
+        .memphis-card strong, .memphis-card b {
+            font-weight: 600; /* Open Sans semibold or Montserrat medium/bold */
+            color: var(--memphis-blue); /* 用孟菲斯色强调 */
+        }
+
+        .memphis-card em {
+            font-style: italic;
+            color: var(--memphis-pink);
+        }
+
+        /* 几何装饰元素 */
+        .deco-shape {
+            position: absolute;
+            z-index: 0; /* 在内容之下，但在卡片背景之上 */
+        }
+
+        .deco-circle {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+        }
+
+        .deco-square {
+            width: 40px;
+            height: 40px;
+        }
+        
+        .deco-line {
+            height: 5px;
+            width: 100px;
+        }
+
+        /* 响应式调整 */
+        @media (max-width: 768px) {
+            body {
+                padding: 15px;
+            }
+            .memphis-card {
+                padding: 20px 25px;
+            }
+            .memphis-focus {
+                font-size: 2rem;
+            }
+            .memphis-card p {
+                font-size: 0.95rem;
+            }
+        }
+        @media (max-width: 480px) {
+            .memphis-focus {
+                font-size: 1.7rem;
+            }
+             .memphis-card::before,
+             .memphis-card::after { /* 在小屏幕上简化或移除一些复杂的背景装饰 */
+                display: none;
+             }
+        }
+
+    </style>
+</head>
+<body>
+    <div class="memphis-container">
+
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-1" data-text="竞争是什么?">竞争是什么?</h2>
+                <p>一直以来，我对“竞争”这个概念有些模糊。</p>
+                <p>有人说对手是最好的朋友，有人说生存就是弱肉强食不是你死就是我活，那对手怎么可能会是最好的朋友呢？竞争如何才是正当竞争呢？不正当竞争又意味着什么？剥削、掠夺又是怎么一回事？竞争总是有输有赢的，那输的一方怎么办？不能一起包饺子吗？什么又是输和赢？</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="deco-shape deco-circle" style="background-color: var(--memphis-green); top: -15px; right: -15px; opacity: 0.7;"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-2" data-text="从游戏说起">从游戏说起</h2>
+                <p>定义一场游戏，需要四个因素：<strong>目标、达成目标的手段、对手段进行约束的规则、玩家的游戏态度</strong>。</p>
+                <p>这四个因素缺一不可。</p>
+                <p>根据目标的不同，可以分为有限游戏和无限游戏，有限游戏是为了赢，无限游戏是为了游戏本身。</p>
+                <p>绝大多数情况下，我们所说的竞争，都是<strong>有限游戏</strong>，都是为了赢，是在某个具体规则约束内进行的，而无限游戏的目的是为了延续游戏本身，是可以对规则本身进行操控的。</p>
+                <p>每个人可以同时是有限游戏的玩家，也可以是无限游戏的玩家，这并不冲突。</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="deco-shape deco-line" style="background-color: var(--memphis-orange); bottom: 10px; left: -30px; transform: rotate(20deg);"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-3" data-text="规则与共识">规则与共识</h2>
+                <p>回到游戏的定义，一场游戏总是有目标的，为了达成目标，可以有很多手段，而基于许多人类共识，有些手段是不能使用的，比如说不能因为头疼就把脖子砍了，总是有些底线和共识，通常表现为<em>道德、法律、常识</em>，这就是规则。</p>
+            </div>
+        </div>
+        
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-4" data-text="行为的界定">行为的界定</h2>
+                <p>在同一个规则内进行游戏的，叫<strong>竞争</strong>。</p>
+                <p>沿着规则擦边走的，叫<em>不正当竞争</em>。</p>
+                <p>以正义之名利用规则合法侵犯他人的，叫<strong>剥削</strong>。</p>
+                <p>直接忽视规则约束直接操作的，叫<em>掠夺</em>。</p>
+                <p>如果从层级和意愿角度来说，竞争是发生在同一层级、双方自愿的；而剥削和掠夺是发生在不同层级，总有一方是不愿意的。</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+             <div class="deco-shape deco-square" style="background-color: var(--memphis-blue); top: 50%; right: -20px; transform: translateY(-50%) rotate(30deg); opacity: 0.6;"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-5" data-text="玩家的画像">玩家的画像</h2>
+                <p>眼中只有目标，没有规则约束的那群人，就是推崇弱肉强食理论的那批人。弱肉强食本身没有问题，是使用的人出了问题，可任何一个理论都有应用的边界，总不能拿着一个规则去套，只要不符合这个规则的理论就是错的，这种想法本身就是很离谱的，一个典型的例子是：社会达尔文。</p>
+                <p>眼中只有规则而没有目标的人，则是盲目的，总是忘了自己为了什么而做。</p>
+                <p>一个合格的玩家，认同的是<strong>目标和规则本身</strong>。</p>
+                <p>分类完了吗？没有，还有一些搞破坏的，他们对这一切都不认同，只想加速加速。</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-1" data-text="为何竞争？">为何竞争？</h2>
+                <p>对竞争的概念澄清之后，那么新的问题又来了：人为什么要竞争？竞争的正当性从何而来？</p>
+                <p>一个最根本的原因：<strong>资源有限</strong>。</p>
+                <p>因为资源有限，所以不得不竞争。资源这个词有点大，它并不只是指有形资产，当然也可以指无形资产，人是很难满足的，比较一旦产生，那么攀比随之而来，竞争是永恒的。</p>
+                <p>插入一句：<em>发展之所以能够解决一切问题，是因为当存在增量的时候，内部的竞争会减少，整体上形成一个合力，合作去与外界的势力去竞争。当增量消失进入存量竞争时，生存难度大大加大。</em></p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-2" data-text="博弈的结果">博弈的结果</h2>
+                <p>从斗争双方博弈角度来说：存在以下几种结果</p>
+                <ul>
+                    <li><strong>竞争：双赢</strong></li>
+                    <li>不正当竞争、掠夺、剥削：<em>单赢</em></li>
+                    <li>破坏：双输</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="memphis-card">
+            <div class="deco-shape deco-circle" style="background-color: var(--memphis-pink); bottom: -25px; left: -25px; opacity: 0.5;"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-3" data-text="竞争何以双赢">竞争何以双赢</h2>
+                <p>竞争为什么是双赢的？因为竞争是在同一个约束下进行的，且双方是自愿参与的：</p>
+                <p>对于社会来说，整体上看，资源会流向能够支配它的人，<strong>竞争是机制在合理地进行资源分配</strong>。</p>
+                <p>是人追着钱跑的，还是钱追着人跑的？是后者。</p>
+                <p>……什么时候能来追追我：）</p>
+                <p>对于个人来说，<strong>竞争是兑现自己潜力的最好方式</strong>。所谓对手是最好的朋友，这句话在一个人关注自身而不是关注外界标准的时候成立，毕竟一个人真正的力量是内生的，而不是外在赋予的。</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-4" data-text="竞争的羞耻感">竞争的羞耻感</h2>
+                <p>既然竞争那么好，为什么会有竞争羞耻？我认为有两个原因：</p>
+                <p>从文化上看，我们传统文化讲究的是<em>家国天下</em>，一家人最好就是和和气气的，一起包饺子，儒家的“礼”就限制了竞争。</p>
+                <p>老子也有锅：<strong>夫唯不争，故天下莫能与之争。</strong></p>
+                <p>不是原文出了问题，是理解出了问题，我的观点是：这里的争是指手段，而不是目的，不争不是说装孙子，而是说：没必要，按照规律做，自然会得到想要的东西。</p>
+                <p><em>顺势而为是很有难度的，第一步是识别势，第二步才是“为”，不是说就这样吧不管了美名其曰顺其自然。</em></p>
+            </div>
+        </div>
+        
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-5" data-text="成败的误解">成败的误解</h2>
+                <p>从个人角度看，对竞争的恐惧主要来自对<strong>成功和失败的误解</strong>。</p>
+                <p>什么是成功？什么是失败？成功和失败总是基于某个具体的目标的，如果把目标放的很低，那么你可以一直赢，赢麻了。</p>
+                <p>如果把目标放的很高，那么你总是一直输，输光光。</p>
+                <p>有意思吗？都是语言游戏，糊弄人的把戏。</p>
+            </div>
+        </div>
+
+        <div class="memphis-card">
+            <div class="deco-shape deco-line" style="background-color: var(--memphis-yellow); top: 10px; right: -50px; transform: rotate(-30deg); width: 150px;"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-1" data-text="一切皆反馈">一切皆反馈</h2>
+                <p>忘记世俗的标准，世俗本身没有标准，只是一群无聊的人在那喊，当把注意力放到自己身上时，便会发现：</p>
+                <p><strong>没有成功，没有失败，只有反馈，一切都是反馈，反馈总是中性。</strong></p>
+                <p><em>失败总是人最好的朋友</em>，因为它比成功带来更真实的反馈。</p>
+                <p>彻彻底底的失败，我想在成年之后来得越早越好，这会让他更好的看清自己，更好的准备生活，不至于有太多的沉没成本。</p>
+            </div>
+        </div>
+        
+        <div class="memphis-card">
+            <div class="card-content">
+                <h2 class="memphis-focus style-2" data-text="愿赌服输">愿赌服输</h2>
+                <p>竞争失败怎么办？后果很严重怎么办？<strong>愿赌服输</strong>。</p>
+                <p>任何事情都有风险，你可以不参加的，每个人都有权力选择拒绝参加这个游戏，无论是主动参与还是被动参与，本质上个人都是同意了“不参加这个游戏的成本更大”。</p>
+                <p>权力从来都是自己授权给别人的，只要自己不愿意，谁也控制不了你，从最根本上看，<em>每个人都拥有死亡的自由</em>。</p>
+                <p>不能只想要好处而不想要风险，只接受赢不接受输的人，不该来玩这个游戏，这本质上是作弊。</p>
+            </div>
+        </div>
+        
+        <div class="memphis-card">
+            <div class="deco-shape deco-square" style="background-color: var(--memphis-green); bottom: -10px; right: 30%; transform: rotate(15deg); opacity: 0.8;"></div>
+            <div class="card-content">
+                <h2 class="memphis-focus style-3" data-text="自然的秩序">自然的秩序</h2>
+                <p>理应成功，理应失败，每个人都有属于他自己的位置，走向属于自己的道路，一切都是那么自然。</p>
+                <p><strong>很合理。</strong></p>
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
