@@ -26,12 +26,12 @@ heroImage: /logo.jpg
 heroImageDark: /logodark.jpg
 bgImageStyle:
   background-attachment: fixed
-heroText: 生存方法论研究
+heroText: 社会生存方法论
 tagline: 专注于“社会化”的一切问题
 actions:
   
-  - text: 更新记录
-    link: ./other/history.html
+  - text: 开始阅读
+    link: ./article
     type: primary
 
 highlights:
@@ -40,7 +40,7 @@ highlights:
     features:
       - title: 社会化
         icon: tools
-        details: 实用资源、软件、网站
+        details: 哲学、商业、营销、人情世故、潜规则
         link: ./article/
 
   - header:

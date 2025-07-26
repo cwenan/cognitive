@@ -17,7 +17,7 @@ export default navbar([
   // },
 
   {
-    text: "公众号文章备份",
+    text: "文章合集",
     icon: "laptop-code",
     link: "/article/"
   },
