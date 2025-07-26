@@ -26,18 +26,23 @@ heroImage: /logo.jpg
 heroImageDark: /logodark.jpg
 bgImageStyle:
   background-attachment: fixed
-heroText: 明心见信
+heroText: 生存方法论研究
 tagline: 专注于“社会化”的一切问题
 actions:
-   - text: “社会生存方法论” 💡
-     link: ./article/
-     type: primary
-
+  
   - text: 更新记录
     link: ./other/history.html
     type: primary
 
 highlights:
+
+  - header:
+    features:
+      - title: 社会化
+        icon: tools
+        details: 实用资源、软件、网站
+        link: ./article/
+
   - header:
     features:
       - title: 资源库
