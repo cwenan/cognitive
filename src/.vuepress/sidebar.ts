@@ -12,20 +12,18 @@ export default sidebar({
     },
 
     {
-      text: "资源库",
-      icon: "tools",
-      prefix: "resource/",
-      children: "structure",
-    },
-
-    {
-      text: "相关",
+      text: "微信社群",
       icon: "info",
       prefix: "other/",
       children: "structure",
     },
 
-  
+    {
+      text: "资源库",
+      icon: "tools",
+      prefix: "resource/",
+      children: "structure",
+    },  
 
     
 
