@@ -26,8 +26,8 @@ heroImage: /logo.jpg
 heroImageDark: /logodark.jpg
 bgImageStyle:
   background-attachment: fixed
-heroText: 认知导览
-tagline: 你的互联网资源库
+heroText: 明心见信
+tagline: 专注于“社会化”的一切问题
 actions:
   # - text: 快速浏览 💡
   #   link: ./article/

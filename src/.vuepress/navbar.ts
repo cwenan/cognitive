@@ -10,14 +10,14 @@ export default navbar([
   // },
 
 
-  {
-    text: "资讯日报",
-    icon: "laptop-code",
-    link: "/article/newsletter/"
-  },
+  // {
+  //   text: "公众号文章备份",
+  //   icon: "laptop-code",
+  //   link: "/article/newsletter/"
+  // },
 
   {
-    text: "文章合集",
+    text: "公众号文章备份",
     icon: "laptop-code",
     link: "/article/"
   },
