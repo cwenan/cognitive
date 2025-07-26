@@ -30,8 +30,8 @@ heroText: 社会生存方法论
 tagline: 专注于“社会化”的一切问题
 actions:
   
-  - text: 开始阅读
-    link: ./article
+  - text: 蜕变之旅
+    link: ./other/001.html
     type: primary
 
 highlights:
