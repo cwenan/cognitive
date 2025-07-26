@@ -29,9 +29,9 @@ bgImageStyle:
 heroText: 明心见信
 tagline: 专注于“社会化”的一切问题
 actions:
-  # - text: 快速浏览 💡
-  #   link: ./article/
-  #   type: primary
+   - text: “社会生存方法论” 💡
+     link: ./article/
+     type: primary
 
   - text: 更新记录
     link: ./other/history.html
